@@ -5,7 +5,7 @@ A Python-based NLP tool that detects and corrects grammatical errors in text. It
 
 
 ###
-## Table of Contents
+## 📝Table of Contents
 ⚫Features
 
 ⚫Installation
@@ -33,7 +33,7 @@ How It Works
 - ✅Pre-trained Model Support - Uses pre-trained NLP models for correction.
 
 ###
-## Installation
+## 🚀Installation
 
 ### 1.Clone the repository
 
