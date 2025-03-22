@@ -22,11 +22,7 @@ A Python-based NLP tool that detects and corrects grammatical errors in text. It
 How It Works
 
 ⚫Contributing
-###
-How It Works
 
-⚫Contributing
-###
 ## ✨Features
 
 - ✅Grammar Error Detection -Identifies spelling  and grammatical mistakes
