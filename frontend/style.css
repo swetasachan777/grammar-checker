@@ -1,0 +1,27 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.hero {
+    background: url('https://source.unsplash.com/1600x900/?writing,books') no-repeat center center/cover;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero h1 {
+    color: black;
+    font-weight: bold;
+}
+
+.carsd {
+    max-width: 600px;
+    margin: auto;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
