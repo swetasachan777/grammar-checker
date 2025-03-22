@@ -23,20 +23,6 @@ How It Works
 
 ⚫Contributing
 ###
-## Table of Contents
-⚫Features
-
-⚫Installation
-
-⚫Usage
-
-⚫Project Architecture
-
-⚫File Structure
-
-⚫Technologies Used
-
-⚫
 How It Works
 
 ⚫Contributing
